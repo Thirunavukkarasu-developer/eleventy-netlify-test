@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: My first post
+title: My first post test 2022
 description: The first post on the Eleventy and Netlify CMS blog
 date: 2020-08-08
 featuredImage: /images/uploads/image1.png
